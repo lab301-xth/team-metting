@@ -2,7 +2,7 @@
 ### lab301组会(lab301 team-meeting)
 这里记录着小土豪们的日常 wiki talk 及项目文档
 
-Here we record the daily wiki talk and project documentation of the lab members.
+Here we record the daily wiki talk and project documentation of the lab members
 
 ### 上传tips(upload tips)：
 
@@ -16,7 +16,7 @@ Here we record the daily wiki talk and project documentation of the lab members.
 
 	- 找 lab301-xth 中任一 Owner 角色成员，并让其邀请你加入组织即可
 	
-        Find a member of any Owner role in lab301-xth and ask them to invite you to join the organization.
+        Find a member of any Owner role in lab301-xth and ask them to invite you to join the organization
 
 - push 自己分享的 Wiki Talk；
     
